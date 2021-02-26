@@ -2,10 +2,10 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"var": "00_nb1.ipynb",
-         "var2": "01_nb2.ipynb"}
+index = {"var": "00_data.ipynb",
+         "var2": "09_regression_data.ipynb"}
 
-modules = ["my_module.py"]
+modules = ["data.py"]
 
 doc_url = "https://GilesStrong.github.io/nbdev_test/"
 
