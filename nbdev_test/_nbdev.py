@@ -2,8 +2,8 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"var": "00_data.ipynb",
-         "var2": "01_regression_data.ipynb"}
+index = {"var2": "00_regression_data.ipynb",
+         "var": "01_data.ipynb"}
 
 modules = ["data.py"]
 
