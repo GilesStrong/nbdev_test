@@ -77,5 +77,7 @@
     Passed
     https://github.com/GilesStrong/nbdev_test/runs/2021074738?check_suite_focus=true
 1. Added fixed index.ipynb to nbs directory, renamed 09_regression_data.ipynb to 01_regression_data.ipynb
-    Passed
-    https://github.com/GilesStrong/nbdev_test/runs/2021074738?check_suite_focus=true
+    Failed: missing matplot lib
+    https://github.com/GilesStrong/nbdev_test/runs/2021100995?check_suite_focus=true
+1. Added fixed index.ipynb to nbs directory added matplotlib to requirements
+    
